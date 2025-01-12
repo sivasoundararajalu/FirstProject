@@ -2,7 +2,7 @@ add and remove user
 change of roles
 
 Manage the database
-closing the connection.
+closing the my sql connection.
 
 change1
 change2 in harsh DB
